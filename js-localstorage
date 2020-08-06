@@ -1,0 +1,6 @@
+localStorage.setItem('username','reinaldo nani');
+
+let name = localStorage.getItem('username');
+
+name
+"reinaldo nani"
